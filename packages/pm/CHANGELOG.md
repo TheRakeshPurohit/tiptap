@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.22.4
+
+### Patch Changes
+
+- 27ea931: Fix dependencies installation after packages updates producing peer dependency resolution conflicts
+
 ## 3.22.3
 
 ## 3.22.2

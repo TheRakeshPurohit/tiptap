@@ -1,5 +1,14 @@
 # @tiptap/extension-drag-handle-react
 
+## 3.30.0
+
+### Patch Changes
+
+- 390d4db: Fixed the React `DragHandle` breaking drag-and-drop when `onNodeChange` is an inline callback, by no longer re-registering its plugin when a callback's identity changes.
+  - @tiptap/extension-drag-handle@3.30.0
+  - @tiptap/react@3.30.0
+  - @tiptap/pm@3.30.0
+
 ## 3.29.2
 
 ### Patch Changes
